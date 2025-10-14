@@ -1,0 +1,1 @@
+* All tasks from lab work will be stored here
