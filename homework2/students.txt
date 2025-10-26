@@ -1,0 +1,3 @@
+John Smith, 100
+Emily Johnson, 90
+Michael Brown, 78
