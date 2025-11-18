@@ -7,11 +7,11 @@ print("*" * 30)
 
 
 numbers_from_file = []
-with open("numbers.txt", "r") as f: 
+with open("numbers.txt", "r") as f:
     for line in f:
         number = int(line.strip())
         numbers_from_file.append(number)
-        
+
 max_number = max(numbers_from_file)
 print(f"Read list: {numbers_from_file}")
 print(f"Result (Max): {max_number}")
